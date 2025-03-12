@@ -53,20 +53,51 @@ GET /user/johndoe
 
 ```json
 {
-    "username": "johndoe",
-    "ranking": 12345,
-    "totalProblemsSolved": 350,
-    "totalProblems": 2500,
-    "acceptanceRate": "14.00%",
-    "easySolved": 150,
-    "mediumSolved": 120,
-    "hardSolved": 80,
-    "contestRating": 1800,
-    "globalRanking": 5000,
-    "badges": [
-        "Knight",
-        "Coding Enthusiast"
-    ]
+  "username": "prakash___ydv",
+  "realName": "Prakash Kumar",
+  "profilePicture": "https://assets.leetcode.com/users/avatars/avatar_1703535462.png",
+  "ranking": 1154007,
+  "country": "India",
+  "aboutMe": "Focusing",
+  "skills": [],
+  "problemSolvingStats": {
+    "easy": 35,
+    "medium": 55,
+    "hard": 7,
+    "total": 194,
+    "all": 97
+  },
+  "acceptanceRates": {
+    "easy": "100.00%",
+    "medium": "100.00%",
+    "hard": "100.00%",
+    "overall": "100.00%",
+    "all": "100.00%"
+  },
+  "contestPerformance": {
+    "rating": "N/A",
+    "globalRank": "N/A",
+    "totalParticipants": "N/A"
+  },
+  "contestBadge": {
+    "name": "N/A",
+    "displayName": "N/A",
+    "icon": "N/A"
+  },
+  "badges": [
+    {
+      "id": "6279814",
+      "name": "Annual Badge",
+      "displayName": "50 Days Badge 2025",
+      "icon": "https://assets.leetcode.com/static_assets/others/lg2550.png"
+    },
+    {
+      "id": "6323473",
+      "name": "Daily Coding Challenge",
+      "displayName": "Feb LeetCoding Challenge",
+      "icon": "/static/images/badges/dcc-2025-2.png"
+    }
+  ]
 }
 ```
 
