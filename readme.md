@@ -11,6 +11,13 @@ The **LeetCode User Details API** allows users to fetch detailed information abo
 
 Use this API to track progress, analyze performance, or integrate it into your own applications!
 
+## Demo
+
+Visit the URL in any browser 
+
+```
+https://leetcode-api-red.vercel.app/api/user/prakash___ydv
+```
 ## 🌍 Base URL
 
 ```
@@ -81,25 +88,9 @@ If the request fails (e.g., invalid username, user not found, or API error), you
 2️⃣ Parse the JSON response to extract user details.
 3️⃣ Use the data in your application, dashboard, or analysis tool.
 
-## 🛠️ Deployment Guide (Vercel)
-
-Want to deploy your own instance of this API? Follow these steps:
-
-1️⃣ Install Vercel CLI:
-   ```sh
-   npm install -g vercel
-   ```
-2️⃣ Login to Vercel:
-   ```sh
-   vercel login
-   ```
-3️⃣ Deploy your API:
-   ```sh
-   vercel
-   ```
 4️⃣ Copy the generated URL and replace `https://leetcode-api-red.vercel.app/api/user` in your setup.
 
-## 🔮 Future Enhancements
+## 🔮 Open for Contributions
 
 🔹 Add support for fetching users' **recent submissions**.
 🔹 Provide **contest history and performance graphs**.
